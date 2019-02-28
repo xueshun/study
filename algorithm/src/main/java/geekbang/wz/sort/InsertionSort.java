@@ -1,4 +1,4 @@
-package geekbang.wz.sort;
+package geekbang.wz.sort1;
 
 /**
  * <pre>类名: InsertionSort</pre>

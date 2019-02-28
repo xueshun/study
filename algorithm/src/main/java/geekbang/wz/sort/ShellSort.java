@@ -1,4 +1,4 @@
-package geekbang.wz.sort;
+package geekbang.wz.sort1;
 
 /**
  * <pre>类名: ShellSort</pre>
@@ -24,7 +24,7 @@ public class ShellSort {
             for (i = number; i < array.length; i++) {
                 temp = array[i];
                 j = i - number;
-                while (j >= 0 && array[i] < temp) {
+                while (j >= 0 && array[j] < temp) {
                     array[j + number] = array[j];
                     j = j - number;
                 }
