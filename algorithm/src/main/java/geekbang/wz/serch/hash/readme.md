@@ -121,5 +121,8 @@
 
 除了我们上面讲到的分布式缓存，实际上，一致性哈希算法的应用非常广泛，在很多分布式存储系统中，都可以见到一致性哈希算法的影子。
 
+[一致性哈希漫画]
+
 [介绍]:https://en.wikipedia.org/wiki/Consistent_hashing
 [雪崩效应]:https://zh.wikipedia.org/wiki/%E9%9B%AA%E5%B4%A9%E6%95%88%E5%BA%94
+[一致性哈希漫画]:https://www.sohu.com/a/158141377_479559
